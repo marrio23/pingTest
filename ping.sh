@@ -1,2 +1,2 @@
 #!/bin/bash
-ping -c 4 wp.pl
+ping -c 7 wp.pl
